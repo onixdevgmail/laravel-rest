@@ -13,3 +13,8 @@
 
 ## Documentation
  * https://documenter.getpostman.com/view/6586178/S1LyUSxe
+ 
+ ## Tests
+ ```
+ ./vendor/bin/phpunit
+```
